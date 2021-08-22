@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1530818317 source:c:\users\wmnlab\desktop\class\computer simulation\project\onlinejccp\main.cpp
+	"simlib.h"
+	<assert.h>
+	<float.h>
+
+1530756569 c:\users\wmnlab\desktop\class\computer simulation\project\onlinejccp\simlib.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"simlibdefs.h"
+
+1530702366 c:\users\wmnlab\desktop\class\computer simulation\project\onlinejccp\simlibdefs.h
+
+1530764712 source:c:\users\wmnlab\desktop\class\computer simulation\project\onlinejccp\simlib.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<assert.h>
+	"simlibdefs.h"
+
