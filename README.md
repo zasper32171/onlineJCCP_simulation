@@ -1,4 +1,4 @@
-# onlineJCCP_simulation
+# OnlineJCCP Simulation
 
 A simulation of this work:
 
