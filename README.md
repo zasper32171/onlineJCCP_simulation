@@ -12,4 +12,4 @@ In the original work, the cache hit ratio, average access delay and external bac
 
 The orange line below represent our simulation results of the proposed algorithm.
 
-<img src="imgs/result1.jpg" alt="result1" width="640">
+<img src="imgs/result.jpg" alt="result1" width="640">
